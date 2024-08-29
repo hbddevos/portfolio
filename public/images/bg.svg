@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="1080px" width="1920px">
+  <defs>
+    <pattern id="doodad" width="34" height="34" viewBox="0 0 40 40" patternUnits="userSpaceOnUse" patternTransform="rotate(220)">
+      <rect width="100%" height="100%" fill="rgba(26, 32, 44,1)"/>
+      <circle cx="40" cy="20" r="1" fill="rgba(112, 36, 89,1)"/>
+      <circle cx="0" cy="20" r="1" fill="rgba(112, 36, 89,1)"/>
+      <circle cx="13.333333333333334" cy="20" r="1" fill="rgba(112, 36, 89,1)"/>
+      <circle cx="26.666666666666668" cy="20" r="1" fill="rgba(112, 36, 89,1)"/>
+      <circle cx="0" cy="20" r="1" fill="rgba(255, 245, 245,1)"/>
+      <circle cx="40" cy="20" r="1" fill="rgba(255, 245, 245,1)"/>
+    </pattern>
+  </defs>
+  <rect fill="url(#doodad)" height="200%" width="200%"/>
+</svg>
