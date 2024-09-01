@@ -69,6 +69,7 @@ const projects = {
     "work_experience_projects": [
         {
             "id": 1,
+            "link":"https://github.com/hbddevos/pdfsite",
             "project_name": "PDF Sharing Platform",
             "description": "Developed a website that allows users to share and download PDFs, with the ability to add brief summaries for each document.",
             "technologies_used": [
@@ -96,6 +97,7 @@ const projects = {
         },
         {
             "id": 2,
+            "link":"https://github.com/hbddevos/Laravel/tree/base",
             "project_name": "PhoneBook (Personal Contact Management)",
             "description": "Built a personal contact management system to practice and apply Laravel framework skills.",
             "technologies_used": [
@@ -127,6 +129,7 @@ const projects = {
         },
         {
             "id": 3,
+            "link": "https://github.com/hbddevos/todo-app",
             "project_name": "To-Do List Application",
             "description": "Created a to-do list application with features to filter tasks and schedule them for future completion.",
             "technologies_used": [
@@ -158,6 +161,7 @@ const projects = {
         },
         {
             "id": 4,
+            "link":"http://library-dev.infinityfreeapp.com/",
             "project_name": "Book Management System",
             "description": "Developed a comprehensive book management system for a bookstore, summarizing my learning in Laravel.",
             "technologies_used": [

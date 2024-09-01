@@ -44,8 +44,6 @@
 </template>
 <script setup>
 import { RouterLink } from 'vue-router';
-import About from '@/views/About.vue';
-import Projects from '@/views/Projects.vue';
 
 
 </script>

@@ -18,7 +18,7 @@
             <h3 class="text-center mt-10 mb-8 uppercase  text-3xl md:text-4xl font-bold tracking-wide">{{
                 project.project_name }}</h3>
             <div class="my-8 text-center">
-                <a href="" class="inline-flex text-xl text-blue-700 underline underline-offset-2">view
+                <a v-if="project.link" :href="project.link" target="_blank" class="inline-flex text-xl text-blue-700 underline underline-offset-2">view
                     <span class="ms-1 ">
                         <svg xmlns="http://www.w3.org/2000/svg" class="" width="30" height="35" viewBox="0 0 24 24"
                             stroke-width="2" stroke="#1d4ed8" fill="none" stroke-linecap="round"
